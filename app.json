@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "LIZA Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Zaid", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/itsunknown-12/Zaid-Vc-Player",
+    "keywords": ["LIZA", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "repository": "https://github.com/Mrushan2021/Zaid-Vc-Player.git",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,12 +12,12 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "1669178360"
+            "value": ""
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "1904094450"
+            "value": ""
         },
         "LOG_GROUP_ID": {
             "description": "Add @Zaid2_robot and type /id to get ur chat id",
@@ -27,14 +27,14 @@
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": "6435225"
+            "value": ""
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": false,
-            "value": "4e984ea35f854762dcde906dce426c2d"
+            "value": ""
         },
-        "ZAID_SUPPORT": {
+        "LIZA_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
             "value": "Superior_Support"
@@ -47,7 +47,7 @@
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1669178360"
+            "value": ""
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
@@ -62,7 +62,7 @@
         "MONGO_DB_URI": {
             "description": "fill with the mongodb url get from mongodb.cloud.com (don't use mine below !)",
             "required": true,
-            "value": "mongodb+srv://music:music@cluster0.sh6h4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+            "value": ""
         }
     },
     "buildpacks": [
