@@ -1,7 +1,10 @@
 <h2 align="centre"> LIZA ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=380&height=50"
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=380&height=50"
 </p>
+ <div align="center">
+ <img border-radius: 16px src="https://telegra.ph/file/22c2e36ca312797b74ec5.jpg" width="100" height="100"/>
+   
 ### LIZA ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/httpMUSICWorld"><img src="https://telegra.ph/file/b92b53dae4995873a4a6b.png" width="300"></a></p>
