@@ -1,5 +1,7 @@
 <h2 align="centre"> LIZA ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=380&height=50"
+</p>
 ### LIZA ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/httpMUSICWorld"><img src="https://telegra.ph/file/b92b53dae4995873a4a6b.png" width="300"></a></p>
@@ -83,6 +85,4 @@
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 <a href="https://t.me/Miusicworldchat"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/httpMUSICWorld"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=380&height=50"
-</p>
+
