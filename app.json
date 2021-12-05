@@ -1,6 +1,7 @@
 {
     "name": "LIZA Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
+    "logo": "https://telegra.ph/file/22c2e36ca312797b74ec5.jpg",
     "keywords": ["LIZA", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
     "repository": "https://github.com/Mrushan2021/Zaid-Vc-Player.git",
     "stack": "container",
