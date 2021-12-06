@@ -1,6 +1,6 @@
 <h2 align="centre"> LIZA ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
 <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=780&height=180"
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+MR+USHAN&font=Fira%20Code&center=true&width=780&height=80"
 </p>
  <div align="center">
  <img border-radius: 16px src="https://telegra.ph/file/22c2e36ca312797b74ec5.jpg" width="100" height="100"/>
