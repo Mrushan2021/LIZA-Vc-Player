@@ -61,6 +61,6 @@ async def ubkickme(_, message: Message):
 @ZAIDUB.on_message(filters.command("alive", [".", "/"]) & filters.me & ~filters.edited)
 async def ubalive(_, message: Message):
   alive_msg = await message.edit_text("`Processing...`")
-  alive_pic = "https://telegra.ph/file/f8a9af2ad589946130da1.jpg"
-  await message.reply_photo(alive_pic, caption=f"**☑️ Zaid Music Userbot is Alive 🌀** \n\n**🤖 Version** \n ↳**Bot Version:** `2.5` \n ↳**Userbot Version:** `0.0` \n\n**🐬 Info**\n ↳**Music Bot:** @{BOT_USERNAME} \n ↳**Owner:** [Click Here](tg://user?id=1669178360)")
+  alive_pic = "https://i.ibb.co/wZtm2tz/8306685efadd.jpg"
+  await message.reply_photo(alive_pic, caption=f"**☑️ LIZA Music Userbot is Alive 🌀** \n\n**🤖 Version** \n ↳**Bot Version:** `2.5` \n ↳**Userbot Version:** `0.0` \n\n**🐬 Info**\n ↳**Music Bot:** @{BOT_USERNAME} \n ↳**Owner:** [Click Here](tg://user?id=1669178360)")
   await alive_msg.delete()
