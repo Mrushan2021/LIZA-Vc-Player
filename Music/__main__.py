@@ -53,7 +53,7 @@ async def load_start():
             pass     
     await app.send_message(LOG_GROUP_ID, "Music Bot Started")
     await client.send_message(LOG_GROUP_ID, "Assistant Of Zaid Music Started")
-    print("[INFO]: STARTED THE ZAID BOT AND SENDING THE INFO TO ZAID SERVER")
+    print("[INFO]: STARTED THE LIZA BOT AND SENDING THE INFO TO LIZA SERVER")
     
    
 loop = asyncio.get_event_loop()
