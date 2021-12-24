@@ -22,7 +22,7 @@
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 - [MongoDB](https://cloud.mongodb.com/)
 
-🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
+🧪 ɢᴇᴛ SESSION_NAME ꜰʀᴏᴍ ʜᴇʀᴇ:
 
 [@genStr_Bot](https://t.me/genStr_Bot)
 
@@ -78,10 +78,8 @@
 
 
 ### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
-- [Menthos Music](https://GitHub.com/ToxicCybers/MentosMusic)
 - Callsmusic
 - Yukki
-- Daisy
 - PyroGram
 -xyz ⚡
 

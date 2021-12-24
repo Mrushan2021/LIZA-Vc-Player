@@ -51,8 +51,8 @@
             "value": ""
         },
         "DURATION_LIMIT": {
-            "description": "filled, don't change this !",
-            "required": true,
+            "description": "filled, don't change this ! this is in a seconds not minutes",
+            "required": false,
             "value": "540000"
         },
         "BOT_TOKEN": {
